@@ -10,6 +10,9 @@ I am not responsible for your actions.
 This is for educational purposes.
 Use it to understand, not to do malicious things.
 
+
+AND THE V1 SUCK YOU NEED TO WAIT V2 IT WILL BE MORE ADVANCE TRUST ME
+
 # Setup
 
 You Need to have JDK 17 👋
