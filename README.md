@@ -1,5 +1,3 @@
-[![GitHub stars](https://img.shields.io/github/stars/StratsData/RatMod?style=social)](https://github.com/StratsData/RatMod/stargazers)
-
 # Rat Mod
 
 A Simple Mod That Fuck Minecraft Accounts 🔍
