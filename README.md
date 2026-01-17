@@ -1,10 +1,8 @@
-[![GitHub stars](https://img.shields.io/github/stars/MonPseudo/SuperMod?style=social)](https://github.com/MonPseudo/SuperMod/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/StratsData/RatMod?style=social)](https://github.com/StratsData/RatMod/stargazers)
 
-#Rat Mod
+# Rat Mod
 
 A Simple Mod That Fuck Minecraft Accounts 🔍
-
-# IT WILL BE ADDED SOON THE .JAR
 
 # DISCLAIMER
 
