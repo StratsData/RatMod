@@ -23,7 +23,7 @@ Open a project with the folder. 🌐
 
 Then Change.
 
-And Build.
+And Build, with >> ./gradlew build
 
 If i explain bad you can see tutorial on youtube 😴
 
