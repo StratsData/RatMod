@@ -39,6 +39,8 @@ Get the IP, ISP AND SYSTEM INFO
 
 WITH THE COUNTRY 🌍
 
+AND ETC...
+
 
 # Contributors
 
